@@ -1,6 +1,3 @@
-/** 
- * @author MRX 
- */
 import { WarningError, InvalidParameterError } from "../../errors/index.js";
 import { readDirectoryRecursive } from "../../utils/index.js";
 import { PREFIX, COMMANDS_DIR } from "../../config.js";

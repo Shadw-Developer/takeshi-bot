@@ -169,7 +169,6 @@ export function readDirectoryRecursive(dir) {
       results.push(itemPath);
     }
   }
-
   return results;
 }
 
